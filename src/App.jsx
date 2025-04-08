@@ -1,9 +1,6 @@
-import { useState } from 'react';
 import Player from './components/player';
 
 function App() {
-	
-
 	return (
 		<main>
 			<div id='game-container'>
