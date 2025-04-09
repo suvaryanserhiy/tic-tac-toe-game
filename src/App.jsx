@@ -33,7 +33,6 @@ function App() {
 					activePlayerSymbol={activePlayer}
 				/>
 			</div>
-			<Log />
 		</main>
 	);
 }
