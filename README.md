@@ -17,6 +17,8 @@ A simple and interactive Tic Tac Toe game built with React. This project demonst
 ## 🖼️ Screenshots
 
 ![Game Screenshot](/public/screenshots/initialGameScreenShot.png)
+![Game Over Screenshot](/public/screenshots/gameOverScreen.png)
+![Logs](/public/screenshots/logsScreenshot.png)
 
 ---
 
